@@ -19,4 +19,36 @@ This is how the program will function (or, the code that needs to be written)
 */
 
 
+#include <stdio.h>
 
+
+int main() {
+
+    printf("\nHello Dumbass who doesn't know how to use google\n");
+    printf("Please select the type of unit system for your value: \n ");
+
+
+
+
+    return 0;
+}
+
+
+
+// Function for distance conversions
+
+int distance (int type, int value){
+
+    int output;
+
+
+
+
+
+
+    output = value * 5;
+
+
+
+    return output;
+}
